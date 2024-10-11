@@ -11,7 +11,7 @@
 ## Languages and Tools 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,anaconda,pycharm,py,pytorch,sklearn,matlab,html,css,tailwind,redis,mongodb,mysql,ubuntu,linux,java,maven,idea,docker,vscode,latex" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,anaconda,pycharm,py,pytorch,sklearn,matlab,html,css,redis,mongodb,mysql,ubuntu,linux,java,maven,idea,docker,vscode,latex" />
   </a>
 </p>
 
