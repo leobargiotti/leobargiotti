@@ -2,10 +2,11 @@
 - I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
 
 ## What I'm currently learning 🌱
-- Artificial Intelligence and Data Engineering
+- I'm continuously expanding my knowledge in AI.
 
 ## Education 🎓
-- Bachelor's Degree in Computer Science  from the University of Florence
+- 🎓 Bachelor's Degree in Computer Science from the University of Florence
+- 📚 Master's Degree in Artificial Intelligence and Data Engineering from the University of Pisa
 
 ## Languages and Tools 💻
 <p align="center">
