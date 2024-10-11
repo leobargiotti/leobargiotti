@@ -24,6 +24,13 @@
 </ul>
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leobargiotti&theme=dark">
+</p>
+
+
+
+
 ## How To Find Me 🌐
 <p align="center">
   <a style="text-decoration: none;" href="https://www.instagram.com/bargiottileo">
