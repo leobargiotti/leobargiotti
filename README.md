@@ -33,7 +33,7 @@
   <a style="text-decoration: none;" href="https://www.instagram.com/bargiottileo">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
-  <a style="text-decoration: none;"href="www.linkedin.com/in/leonardo-bargiotti-51a417232">
+  <a style="text-decoration: none;"href="https://www.linkedin.com/in/leonardo-bargiotti-51a417232">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
