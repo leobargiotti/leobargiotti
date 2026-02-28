@@ -6,7 +6,7 @@
 
 ## Education 🎓
 - 🎓 Bachelor's Degree in Computer Science from the University of Florence
-- 📚 Master's Degree in Artificial Intelligence and Data Engineering from the University of Pisa
+- 🎓 Master's Degree in Artificial Intelligence and Data Engineering from the University of Pisa
 
 ## Languages and Tools 💻
 <p align="center">
