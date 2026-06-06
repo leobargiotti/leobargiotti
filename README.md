@@ -8,6 +8,11 @@
 - 🎓 Bachelor's Degree in Computer Science from the University of Florence
 - 🎓 Master's Degree in Artificial Intelligence and Data Engineering from the University of Pisa
 
+## Experience 💼
+- 🔬 **Postgraduate Research Fellow** | *Department of Information Engineering*
+  - **Project:** "Development of Artificial Intelligence techniques in the diagnosis of thyroid nodules"
+  - Applying advanced AI and machine learning models to improve medical imaging diagnosis and healthcare outcomes.
+
 ## Languages and Tools 💻
 <p align="center">
   <a href="https://skillicons.dev">
