@@ -9,7 +9,7 @@
 - 🎓 Master's Degree in Artificial Intelligence and Data Engineering from the University of Pisa
 
 ## Experience 💼
-- 🔬 **Postgraduate Research Fellow** | *Department of Information Engineering*
+- 🔬 **Postgraduate Research Fellow** | *Department of Information Engineering at the University of Pisa*
   - **Project:** "Development of Artificial Intelligence techniques in the diagnosis of thyroid nodules"
   - Applying advanced AI and machine learning models to improve medical imaging diagnosis and healthcare outcomes.
 
